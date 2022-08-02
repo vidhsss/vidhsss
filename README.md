@@ -57,9 +57,6 @@
   <a href="mailto:vidhijain.contact@gmail.com">
     <img align="left" alt=vidhijain.contact | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>                                                                                                                                    
-  <a href="https://www.instagram.com/moodybluebrush/">
-    <img align="left" alt="Taruvar Mittal | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
-  </a>
 </div>
 <br>
 <br>
