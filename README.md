@@ -2,19 +2,28 @@
 
 
 <h1 align="center">Hey! I'm Vidhi <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
-<h3 align="center">🔸🔹 Machine Learning 🔹🔸</h3>
 <div>
 <div align="left"> 
-  <h3> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me </h3>
+  <h3> About Me </h3>
 
-  - 🎓 &nbsp; student at Carnegie Mellon university
-  - 🌱 &nbsp; Focusing on AI topics like Natural language processing and speech recognition, Cloud computing and developing.
-  - ✍️ &nbsp; 
+  - 🎓 &nbsp; Masters in Machine Learning student at Carnegie Mellon university
+  - 🌱 &nbsp; Focusing on AI topics like Reinforcement Learning, Generative modeling and speech recognition.
+  - ✍️ &nbsp; Learning new things everyday
   
     
 </div> 
 <br>
 <h2>Contributions:</h2>
+<!--   green snake -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+<!--   stats + languages -->                    
+<br>
+<!-- <a href="https://github-readme-stats.vercel.app/api?username=KushagraSikka&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KushagraSikka&show_icons=true&theme=radical" />
+</a> -->
+<!-- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraSikka&langs_count=10&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraSikka&langs_count=20&theme=radical" />
+</a> -->
 
 <br>
 <a href="https://github-readme-stats.vercel.app/api?username=vidhsss&show_icons=true&theme=radical">
