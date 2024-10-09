@@ -2,14 +2,14 @@
 
 
 <h1 align="center">Hey! I'm Vidhi <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
-<h3 align="center">🔸🔹 Data Science and Machine Learning 🔹🔸</h3>
+<h3 align="center">🔸🔹 Machine Learning 🔹🔸</h3>
 <div>
 <div align="left"> 
   <h3> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me </h3>
 
-  - 🎓 &nbsp; student at Netaji Subhas University of Technology.
+  - 🎓 &nbsp; student at Carnegie Mellon university
   - 🌱 &nbsp; Focusing on AI topics like Natural language processing and speech recognition, Cloud computing and developing.
-  - ✍️ &nbsp; Upgrading skills on data structures and algorithms
+  - ✍️ &nbsp; 
   
     
 </div> 
