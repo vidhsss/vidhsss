@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hey! I'm Vidhi <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
+<h1 align="center">Hey! I'm Vidhi </h1>
 <div>
 <div align="left"> 
   <h3> About Me </h3>
@@ -22,30 +22,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraSikka&langs_count=20&theme=radical" />
 </a> -->
 
-<br>
-<a href="https://github-readme-stats.vercel.app/api?username=vidhsss&show_icons=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhsss&show_icons=true&theme=radical" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhsss&langs_count=10&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhsss&langs_count=20&theme=radical" />
-</a>
-
-<br>
-<hr>
-<br>
 
 
- ![Vidhi's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=vidhsss&theme=xcode)
- <p align ="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhsss&theme=black-ice" />
-  </p>
- 
-<br>
-<hr>
-<br>
 
-### Technical Skills:
-<!-- <code><img width="40px" src="https://github.com/vidhsss/vidhsss/blob/main/c.png" title="C++"/></code> -->
+
+
+<!-- ### Technical Skills:
+ <code><img width="40px" src="https://github.com/vidhsss/vidhsss/blob/main/c.png" title="C++"/></code> 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -55,16 +38,15 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="My SQL">
 </p>
+ -->
   
 
  <a href="https://www.linkedin.com/in/vidhijain23/">
    <img align="left" alt="Vidhi Jain | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
-  <a href="mailto:vidhijain.contact@gmail.com">
+  <a href="mailto:vidhij2@cs.cmu.edu">
     <img align="left" alt=vidhijain.contact | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>                                                                                                                                    
 </div>
 <br>
 <br>
-
-⭐ From [vidhi-jain](https://github.com/vidhsss)
