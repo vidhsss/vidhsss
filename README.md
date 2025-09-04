@@ -15,6 +15,10 @@
  <!-- ### Technical Skills: <code><img width="40px" src="https://github.com/vidhsss/vidhsss/blob/main/c.png" title="C++"/></code> <p align="center">  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="My SQL"></p> -->                                                                                                                                     
 </div><br>
 
+## Research
+
+I work on human-AI co-evolution: making AI systems that read intent and emotion, form Theory-of-Mind beliefs about users, and reason. I design frameworks that bridge the gap between how humans think and how AI reasons, ensuring models are not only accurate but also psychologically aligned and trustworthy. I aim to humanize AI by infusing it with cognitive and emotional depth—creating systems that understand people, adapt to their mental states, and support rather than manipulate. I focus on social signal processing (voice, gaze, posture), intention recognition (inverse planning/IRL), and non-manipulative personalization for high-impact domains like healthcare and wellbeing.
+
 ## Latest works
 
 
@@ -41,6 +45,5 @@ Integrated emergency-aware reasoning framework with symptom triage, intent class
 **Technologies:** RAG, HNSW indexing, vLLM, med-alpacca, lamma, knowledge distillation
 <br>
 
-## Research
-My research lies at the intersection of AI-driven decision-making, cognitive alignment, and healthcare applications. I design frameworks that bridge the gap between how humans think and how AI reasons, ensuring models are not only accurate but also psychologically aligned and trustworthy.
+
 
